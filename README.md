@@ -1,0 +1,2 @@
+# Image-classification-using-a-Convolutional-Neural-Network-
+This project demonstrates image classification using a Convolutional Neural Network .The model is trained on the Intel Image Classification Dataset, which contain categories: Buildings, Forest, Glacier, Mountain, Sea, and Street. The project covers end-to-end steps, including data preprocessing, training, evaluation, and prediction visualization.
