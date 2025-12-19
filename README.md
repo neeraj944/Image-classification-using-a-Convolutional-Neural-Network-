@@ -13,3 +13,6 @@ This project implements a Convolutional Neural Network (CNN) from scratch to cla
 - Training with early stopping and model checkpointing
 - Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 - Visualization of predictions on test images
+
+
+Dataset link ----- Intel Image Classification Dataset
