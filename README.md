@@ -13,9 +13,3 @@ This project implements a Convolutional Neural Network (CNN) from scratch to cla
 - Training with early stopping and model checkpointing
 - Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 - Visualization of predictions on test images
-
-## Usage
-1. Clone the repository.
-2. Ensure Python 3.x and virtual environment are set up.
-3. Install dependencies: `tensorflow`, `numpy`, `matplotlib`, `scikit-learn`, `seaborn`.
-4. Run: `python cnn.py`
