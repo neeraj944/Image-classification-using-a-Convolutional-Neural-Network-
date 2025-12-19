@@ -15,4 +15,4 @@ This project implements a Convolutional Neural Network (CNN) from scratch to cla
 - Visualization of predictions on test images
 
 
-Dataset link ----- Intel Image Classification Dataset
+Dataset ----- Intel Image Classification Dataset
